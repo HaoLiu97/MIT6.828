@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.tex": "latex",
+        "*.s": "mips",
+        "monitor.h": "c",
+        "memlayout.h": "c",
+        "stdio.h": "c",
+        "types.h": "c"
+    }
+}
